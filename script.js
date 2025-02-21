@@ -46,11 +46,11 @@ document.getElementById('go-button').addEventListener('click', function() {
         url = 'https://drive.google.com/drive/folders/1FZxK6jcgttG1vFhmeKdW7aHQFoH87hQT?usp=sharing';
     } else if (category === 'romanticas') {
         url = 'https://drive.google.com/drive/folders/1WVoPkd8oaXKqXtC_08EaWEPxqj9bWHJF?usp=sharing';
-         else if (category === 'variado') {
+    } else if (category === 'variado') {
         url = 'https://drive.google.com/drive/folders/1xta6KeT0xn4fOAL_tKJT5U4f2Ims7hPA?usp=drive_link';
-         else if (category === 'hombre') {
+    } else if (category === 'hombres') {
         url = 'https://drive.google.com/drive/folders/1hXp7BVLxgDX4bc1MRO0TbrBO1EiAxxTo?usp=drive_link';
-        else if (category === 'merengue') {
+    } else if (category === 'merengue') {
         url = 'https://drive.google.com/drive/folders/1RwngFVUHSPG5-Wa_eoqu6NtVG7L5wWhC?usp=drive_link';
     }
 
