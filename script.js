@@ -24,6 +24,28 @@ document.getElementById('go-button').addEventListener('click', function() {
         url = 'https://drive.google.com/drive/folders/13yHRP0yj-C_OZBdBgcHiNRgRmhy9DSvX?usp=sharing';
     } else if (category === 'vallenato') {
         url = 'https://drive.google.com/drive/folders/1fBmGFzwaQMp1LOM6-xNOjHKwIDyl1dVP?usp=sharing';
+    } else if (category === 'salsa') {
+        url = 'https://drive.google.com/drive/folders/1AVXPWs3KTLH337iGiNqmB91fFh7cwDra?usp=drive_link';
+    } else if (category === 'rock') {
+        url = 'https://drive.google.com/drive/folders/1LEHyt1F1IlLTAkFQIKjZoC3sIVml4Knb?usp=drive_link';
+    } else if (category === 'reggae') {
+        url = 'https://drive.google.com/drive/folders/1r5GswLGmX8tePvXUA0kQwjRD0xM5fGx7?usp=drive_link';
+    } else if (category === 'perreo') {
+        url = 'https://drive.google.com/drive/folders/1KgcQ7GxP2Tk7NGe0u68AUeAQGp_V88bi?usp=drive_link';
+    } else if (category === 'hip-hop') {
+        url = 'https://drive.google.com/drive/folders/1YSRN1bJwn4khdMl9g-2CzYy2BpBm_251?usp=drive_link';
+    } else if (category === 'electronica') {
+        url = 'https://drive.google.com/drive/folders/1PLw6pEaWHZTEv_-RSv4elid6jw7yIM-o?usp=drive_link';
+    } else if (category === 'clasicas') {
+        url = 'https://drive.google.com/drive/folders/14FlIKoC71U39TTeNPe4_3Q6_4K8bo2MZ?usp=drive_link';
+    } else if (category === 'gym') {
+        url = 'https://drive.google.com/drive/folders/1b6WALd7lzXYFV4D7OKzokFCCXm-JitGE?usp=drive_link';
+    } else if (category === 'hambiente') {
+        url = 'https://drive.google.com/drive/folders/1S1e2Q5GpZzVSNiobcnXEd9IagH2o0B4h?usp=drive_link';
+    } else if (category === 'nuevos-lanzamientos') {
+        url = 'https://drive.google.com/drive/folders/1FZxK6jcgttG1vFhmeKdW7aHQFoH87hQT?usp=sharing';
+    } else if (category === 'romanticas') {
+        url = 'https://drive.google.com/drive/folders/1WVoPkd8oaXKqXtC_08EaWEPxqj9bWHJF?usp=sharing';
     }
 
     if (url) {
