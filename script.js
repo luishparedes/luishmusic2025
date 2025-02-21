@@ -40,7 +40,7 @@ document.getElementById('go-button').addEventListener('click', function() {
         url = 'https://drive.google.com/drive/folders/14FlIKoC71U39TTeNPe4_3Q6_4K8bo2MZ?usp=drive_link';
     } else if (category === 'gym') {
         url = 'https://drive.google.com/drive/folders/1b6WALd7lzXYFV4D7OKzokFCCXm-JitGE?usp=drive_link';
-    } else if (category === 'hambiente') {
+    } else if (category === 'ambiente') {
         url = 'https://drive.google.com/drive/folders/1S1e2Q5GpZzVSNiobcnXEd9IagH2o0B4h?usp=drive_link';
     } else if (category === 'nuevos-lanzamientos') {
         url = 'https://drive.google.com/drive/folders/1FZxK6jcgttG1vFhmeKdW7aHQFoH87hQT?usp=sharing';
